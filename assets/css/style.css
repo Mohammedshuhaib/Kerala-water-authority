@@ -1,0 +1,35 @@
+.logo-size{
+    width: 25px;
+    margin-left: 4px;
+}
+.header-width{
+    height: 75px;
+}
+.header-down{
+    height: 132px;
+}
+.form-control{
+    outline:none;
+    border-width: 0 0 1px;
+    border-color: black;
+   border-radius: 0;
+}
+.hover-text:hover{
+    font-weight: bold;
+}
+.bbp-size{
+    width: 59px;
+}
+.site-size{
+    font-size: 9px;
+}
+.error{
+    font-size: 12px;
+    color: red;
+    border-color: red;
+}
+.covid-size{
+    border-radius: 5px;
+    height: 280px
+}
+
